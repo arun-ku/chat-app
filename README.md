@@ -1,8 +1,8 @@
 # Chat App
 
 ## Prerequisites
-*Node (version 5.1 or higher)
-*mongo DB
+* Node (version 5.1 or higher)
+* mongo DB
 
 ##Getting Started
 * Clone the repositry into your machine
