@@ -1,7 +1,12 @@
-# Chat-App
+# Chat App
 
-## Get Started
+## Prerequisites
+*Node (version 5.1 or higher)
+*mongo DB
 
-2. **Install Node Packages.** - `npm install`
-3. **Run the app.** - `npm start`
-4. **Open in browser** - `http://localhost:3000/`
+##Getting Started
+* Clone the repositry into your machine
+* Change ur current directory to to the project folder
+* run `npm install`
+* the app is now running on `http://localhost:9000`
+
