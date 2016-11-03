@@ -8,5 +8,5 @@
 * Clone the repositry into your machine
 * Change ur current directory to to the project folder
 * run `npm install`
+* run `npm start`
 * the app is now running on `http://localhost:9000`
-
